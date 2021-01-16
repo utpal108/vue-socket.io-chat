@@ -1,0 +1,16 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "/media/utpal108/80E0B4D1E0B4CF22/Vue Js/Vue Socket/client/pages/chat.vue",
+    "chunkName": "pages/chat",
+    "_name": "_7bb128aa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/utpal108/80E0B4D1E0B4CF22/Vue Js/Vue Socket/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6c61aaf0"
+  }
+]
